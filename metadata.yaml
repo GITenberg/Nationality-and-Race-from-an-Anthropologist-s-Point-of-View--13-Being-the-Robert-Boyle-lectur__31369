@@ -1,0 +1,31 @@
+_repo: Nationality-and-Race-from-an-Anthropologist-s-Point-of-View--13-Being-the-Robert-Boyle-lectur__31369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keith, Arthur, Sir
+    birthdate: 1866
+    deathdate: 1955
+    gutenberg_agent_id: '35181'
+    url: http://www.gutenberg.org/2009/agents/35181
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Keith
+description: ''
+gutenberg_issued: '2010-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31369'
+  lccn: '21004003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Race'
+- !lcc 'CB'
+- !lcsh 'Nationalism'
+title: "Nationality and Race from an Anthropologist's Point of View\r\nBeing the Robert\
+  \ Boyle lecture delivered before the Oxford university junior scientific club on\
+  \ November 17, 1919"
+url: http://www.gutenberg.org/ebooks/31369
