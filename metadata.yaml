@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35181
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Keith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31369#Nationality-and-Race-from-an-Anthropologist-s-Point-of-View--13-Being-the-Robert-Boyle-lectur_
 gutenberg_issued: '2010-02-23'
 gutenberg_type: Text
 identifiers:
